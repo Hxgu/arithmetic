@@ -1,0 +1,1 @@
+run -ifn adder_LING.prj -ifmt mixed -top adder_ling -ofn LING.ngc -ofmt NGC -p xc6slx45-3fgg484 -opt_mode Speed -opt_level 1

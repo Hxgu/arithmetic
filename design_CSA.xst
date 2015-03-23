@@ -1,0 +1,2 @@
+run -ifn adder_CSA.prj -ifmt mixed -top adder_csa -ofn CSA.ngc -ofmt NGC -p xc6slx45-3fgg484 -opt_mode Speed -opt_level 1
+

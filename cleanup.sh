@@ -1,0 +1,19 @@
+#!/bin/bash
+rm *.srp
+rm *.xrpt
+rm *.lso
+rm *.ngc
+rm *.pwr
+rm *.log
+rm *.xml
+rm *.html
+rm *.map
+rm *.mrp
+rm *.pcf
+rm *.ngm
+rm *.lst
+rm *.lst
+rm *.bld
+rm *.ngd
+rm *.ncd
+rm *png
